@@ -1,2 +1,2 @@
 # JuliaQuestions
-JuliaQuestions Issues
+JuliaQuestions see: Issues
